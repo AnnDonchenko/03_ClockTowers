@@ -1,6 +1,5 @@
 # 03_ClockTowers
 Course`s Home Task 1
-third site
 
 ------eng------ I attended two-week courses on web-programming. It was one of the homework. We learned how to create anchors.
 The design of this page I borrowed from my first site.

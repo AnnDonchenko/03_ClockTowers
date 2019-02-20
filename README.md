@@ -9,4 +9,4 @@ The theme of the page is "Clock Towers". I really love visiting various clock to
 Дизайн этой странички я позаимствовала с моего первого сайта.
 Тема странички "Часовые башни". Я очень люблю посещать различные часовые башни. И если в каком-то городе она есть, то я обязательно возле нее фотографируюсь.
 
-![Alt text](screenshot.png?raw=true "Title")
+![Alt text](site_picture.jpg?raw=true "Title")
